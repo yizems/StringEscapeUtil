@@ -1,5 +1,7 @@
 ## Apache Common Lang 3 精简出 `StringEscapeUtils`类
 
+[![](https://jitpack.io/v/yizems/StringEscapeUtil.svg)](https://jitpack.io/#yizems/StringEscapeUtil)
+
 ## 简介
 
 此库主要应用于Android 程序, 
@@ -16,5 +18,5 @@ lang: http://commons.apache.org/proper/commons-lang/
 
 text: http://commons.apache.org/proper/commons-text/scm.html
 
-## 依赖
+
 
