@@ -1,6 +1,8 @@
 ## Apache Common Lang 3 精简出 `StringEscapeUtils`类
 
+
 [![](https://jitpack.io/v/yizems/StringEscapeUtil.svg)](https://jitpack.io/#yizems/StringEscapeUtil)
+
 
 ## 简介
 
